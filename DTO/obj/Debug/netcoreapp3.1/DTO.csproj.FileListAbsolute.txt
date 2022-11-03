@@ -1,0 +1,72 @@
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Admin\Downloads\Project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Admin\Downloads\Project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Admin\Downloads\Project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Admin\Downloads\Project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\פרויקט\Project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\פרויקט\Project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\פרויקט\Project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\פרויקט\Project\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\פרויקט\Project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\פרויקט\Project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\פרויקט\Project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\פרויקט\Project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\פרויקט\Project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

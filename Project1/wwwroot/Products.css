@@ -1,0 +1,406 @@
+﻿
+html, body {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+ul{
+    margin:0;
+}
+
+.QuickLinks ul li a::after {
+    content: '|';
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.Checkout {
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    font-size:30px;
+}
+.Checkout2 {
+    padding-top: 15px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.QuickLinks ul li a::after {
+    content: '|';
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.state:checked ~ .label .indicator::after {
+    transform: scale3d(.975, .975, 1) translate3d(0, 10%, 0);
+    opacity: 0;
+}
+
+.state:focus ~ .label .text {
+    transform: translate3d(8px, 0, 0);
+    opacity: 1;
+}
+
+.indicator {
+    position: relative;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    box-shadow: -8px -4px 8px 0px #ffffff, 8px 4px 12px 0px #d1d9e6;
+    overflow: hidden;
+}
+
+    .indicator::before,
+    .indicator::after {
+        content: '';
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        height: 80%;
+        width: 80%;
+        border-radius: 50%;
+    }
+
+    .indicator::before {
+        box-shadow: -4px -2px 4px 0px #d1d9e6, 4px 2px 8px 0px #fff;
+    }
+
+    .indicator::after {
+        background-color: #ecf0f3;
+        box-shadow: -4px -2px 4px 0px #fff, 4px 2px 8px 0px #d1d9e6;
+        transform: scale3d(1, 1, 1);
+        transition: opacity .25s ease-in-out, transform .25s ease-in-out;
+    }
+
+.btn {
+    margin: 0px 0px 0px 0px;
+    display: inline-block
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: "Amatic SC", sans-serif;
+    float: left;
+    font-size: 40px;
+    height: 600px;
+    margin: 6px;
+/*    background-image: url("images/back/i1.jpg");
+*/    background-color: #e3a715;
+    background-size: initial;
+    font-weight: bold;
+}
+
+.img-w{
+    height:300px;
+}
+
+p.description{
+    height:65px;
+}
+.bar::before {
+    /*    content: 'COFFEE SHOP';
+*/ color: white;
+    /* display: inline-block; */
+    position: absolute;
+    /* margin: 0 auto; */
+    /* display: block; */
+    top: 8px;
+    left: 41%;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 40px
+}
+.price {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.card button {
+    margin: 0px 0px 0px 0px;
+    border: none;
+    outline: 0;
+    padding: 2px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 28px;
+    font-family: Amatic SC, sans-serif;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+.bar {
+    background-color: black;
+    height: 90px;
+}
+
+.Icon {
+   /* background-image: url(../Images/BagActive.png);*/
+    background-repeat: no-repeat;
+    padding: 9px 2px 2px 2px;
+    color: #4f8855;
+    float: right;
+    margin: 1px 0 0 0;
+    width: 24px;
+    height: 21px;
+}
+
+.BagSummary .Icon .ItemCount {
+    overflow: hidden;
+    height: 16px;
+}
+
+    .BagSummary .Icon .ItemCount span {
+        text-align: center;
+        width: 100%;
+        display: block;
+        font-size: 120%;
+        margin-top: -1px;
+    }
+.goToCart {
+    background: #1a6461;
+    font-size: 11px;
+    color: #fff;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    border: 0;
+    text-transform: uppercase;
+    font-family: "Amatic SC", sans-serif;
+    border-radius: 3px;
+    display: inline-block;
+    float: right;
+    margin: 4px;
+}
+
+.addedToBagDialogue::before {
+    background-color: #fff;
+    box-shadow: 2px -2px 2px rgba(0,0,0,.2);
+    content: " ";
+    display: block;
+    height: 15px;
+    left: 60px;
+    position: absolute;
+    top: -7px;
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    vertical-align: top;
+    width: 15px;
+    z-index: 4999;
+}
+
+
+.QuickLinks ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+    font-family: "Amatic SC", sans-serif;
+}
+
+.QuickLinks ul li {
+  float:left;
+}
+
+
+.Filters {
+    position: absolute;
+    width: 155px;
+    float: right;
+    margin: 4px 4px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    position: absolute;
+    z-index: 102;
+    background-color: #000;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 14px;
+    min-height: 100%;
+    color: white;
+}
+
+.myButton1 {
+    box-shadow: 0px 0px 6px -1px #f5deb7;
+    border-radius: 2px;
+    display: inline-block;
+    cursor: pointer;
+    background-image: url("images/back/i1.jpg");
+    font-family: "Amatic SC", sans-serif;
+    font-size: 23px;
+    padding: 16px 46px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+    width: 150px;
+    margin: 6px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+    .myButton1:hover {
+        background-color: #5cbf2a;
+    }
+
+    .myButton1:active {
+        position: relative;
+        top: 1px;
+    }
+.myButton2 {
+    box-shadow: 0px 0px 6px -1px #f5deb7;
+    border-radius: 2px;
+    display: inline-block;
+    cursor: pointer;
+    background-image: url("images/back/i1.jpg");
+    font-family: "Amatic SC", sans-serif;
+    font-size: 23px;
+    padding: 16px 46px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+    width: 220px;
+    margin: 6px;
+}
+
+    .myButton2:hover {
+        background-color: #5cbf2a;
+    }
+
+    .myButton2:active {
+        position: relative;
+        top: 1px;
+    }
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Amatic SC", sans-serif
+}
+.OptionName {
+    font-size: 30px;
+    display: inline-block;
+    display: inline-block;
+
+}
+.OptionHead {
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    display: inline-block;
+    margin: 0px 25px 25px 45px;
+}
+
+.radiogroup {
+    padding: 48px 64px;
+    border-radius: 16px;
+    background: #ecf0f3;
+    box-shadow: 4px 4px 4px 0px #d1d9e6 inset, -4px -4px 4px 0px #ffffff inset;
+}
+
+
+.wrapper {
+    margin: 8px 0;
+}
+
+.state {
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0.4;
+    pointer-events: none;
+}
+
+.label {
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    color: #394a56;
+}
+.option-input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    position:center;
+    top: 2.5px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    transition: all 0.15s ease-out 0s;
+    background: #cbd1d8;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-left:0.4rem;
+    outline: none;
+    position: relative;
+    z-index: 1000;
+}
+
+    .option-input:hover {
+        background: #e3a715;
+    }
+
+    .option-input:checked {
+        background: #e3a715;
+    }
+
+        .option-input:checked::before {
+            width: 20px;
+            height: 20px;
+            display: flex;
+            font-size: 50px;
+            font-weight: bold;
+            position: absolute;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .option-input:checked::after {
+            -webkit-animation: click-wave 0.65s;
+            -moz-animation: click-wave 0.65s;
+            animation: click-wave 0.65s;
+            background: #f5deb7;
+            content: '';
+            display: block;
+            position: absolute;
+            z-index: 100;
+        }
+
+    .option-input.radio {
+        border-radius: 50%;
+    }
+
+        .option-input.radio::after {
+            border-radius: 50%;
+        }
+
+@keyframes click-wave {
+    0% {
+        height: 20px;
+        width: 20px;
+        opacity: 0.35;
+        position: relative;
+    }
+
+    100% {
+        height: 200px;
+        width: 200px;
+        margin-left: -80px;
+        margin-top: -80px;
+        opacity: 0;
+    }
+}
+
+
+

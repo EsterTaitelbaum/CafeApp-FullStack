@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!--<script src="ShoppingBag.js"></script>-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="ShoppingBag.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title></title>
+
+    <template id="temp-row">
+        <table>
+            <tr class="item-row">
+                <td class="imageColumn"><a rel="lightbox" href="#"><div class="image"></div></a></td>
+                <td class="descriptionColumn"><div><h3 class="itemName"></h3></div></td>
+                <td class="availabilityColumn"><div>במלאי</div></td>
+                <td class="totalColumn delete"><div class="expandoHeight" style="height: 99px;"><p class="price"></p><a href="#" title="לחצו כאן כדי להסיר את פריט זה" class="Hide DeleteButton showText">הסרת פריט</a></div></td>
+
+            </tr>
+        </table>
+    </template>
+</head>
+
+<body onload="loadCart()">
+    <header>
+        <div class="cart">
+            <div id="title">
+
+                <p class="content">
+                    הסל שלך מכיל <span id="itemCount"></span> פריטים ומגיע לסך של <span id="totalAmount"></span> ש"ח.
+                </p>
+                <a class="nxbtn primary GoToCheckout TopLink checkout_transfer" href="#" onclick="placeOrder(); return false;" style="font-family: 'Amatic SC', 'sans-serif;'">לביצוע ההזמנה</a> <a class="shopmore" href="Products.html?fromShoppingBag=1">המשך בקניה</a> <div class="ClearBoth"></div>
+            </div>
+            <div class="cistGroup">
+                <table id="items" class="items">
+                    <thead>
+                        <tr>
+                            <th class="itemsColumn" colspan="2"><div>פריטים</div></th>
+                            <th><div class="availability">זמינות</div></th>
+                            <th class="totalColumn"><div>סכום ההזמנה</div></th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </header>
+
+
+</body>
+
+</html>
+<script src="ShoppingBag.js"></script>
+<!-- Injection By NetFree -->
+<!--<script src="https://netfree.link/injection-script/go-payment.js" type="text/javascript" async  ></script>
+<script src="https://netfree.link/injection-script/popup-card-init.js" type="text/javascript" async  ></script>-->

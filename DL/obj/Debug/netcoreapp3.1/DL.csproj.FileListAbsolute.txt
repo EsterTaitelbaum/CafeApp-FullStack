@@ -1,0 +1,146 @@
+D:\יד סימסטר א\WebApi\Project1\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\יד סימסטר א\WebApi\Project1\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\יד סימסטר א\WebApi\Project1\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\יד סימסטר א\WebApi\Project1\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\יד סימסטר א\WebApi\Project1\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\יד סימסטר א\WebApi\Project1\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+G:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+G:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+G:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+G:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+G:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+G:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\API\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\API\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.AssemblyReference.cache
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Admin\Downloads\Project\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\Admin\Downloads\Project\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Admin\Downloads\Project\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Admin\Downloads\Project\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Admin\Downloads\Project\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\Admin\Downloads\Project\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\פרויקט\Project\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\פרויקט\Project\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\פרויקט\Project\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\פרויקט\Project\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\פרויקט\Project\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\פרויקט\Project\DL\obj\Debug\netcoreapp3.1\DL.pdb

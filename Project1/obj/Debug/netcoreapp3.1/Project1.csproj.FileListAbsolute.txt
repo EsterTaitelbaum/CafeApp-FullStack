@@ -1,0 +1,1215 @@
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+M:\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+M:\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+D:\יד סימסטר א\WebApi\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\BL.dll
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\DL.dll
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\יד סימסטר א\WebApi\Project1\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+G:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\API\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+D:\API\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This_user\Documents\לימודים\Web Api\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\nlog.config
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+D:\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 לא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project1 להההא לשנות\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט גמר\Project\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Admin\Downloads\Project\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\Admin\Downloads\Project\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Documents\פרטי\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\nlog.config
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+D:\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\win10\Desktop\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\win10\Desktop\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\jobs\פרויקט\Project\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\jobs\פרויקט\Project\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\nlog.config
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\BL.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\DL.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\jobs\cafeApp\full_stack\Project1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cs
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.MvcApplicationPartsAssemblyInfo.cache
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.Manifest.cache
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\staticwebassets\Project1.StaticWebAssets.xml
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project1.styles.css
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.RazorTargetAssemblyInfo.cache
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CopyComplete
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\jobs\cafeApp\full_stack\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache

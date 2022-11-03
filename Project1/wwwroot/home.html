@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Coffee Time</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+    <script src="home.js"></script>
+    <style>
+        body, html {
+            height: 100%
+        }
+
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Amatic SC", sans-serif
+        }
+
+        .menu {
+            display: none
+        }
+
+        .bgimg {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url("/w3images/pizza.jpg");
+            min-height: 90%;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar (sit on top) -->
+    <div class="w3-top w3-hide-small" style=" opacity: 1.0; box-sizing: inherit;">
+        <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar" style="opacity: 1.0">
+            <a href="home.html" class="w3-bar-item w3-button" style="font-size:35px">HOME</a>
+            <a href="Products.html" class="w3-bar-item w3-button" style="font-size:35px">תפריט</a>
+            <a href="home.html#about" class="w3-bar-item w3-button" style="font-size:35px">אודות</a>
+            <a href="home.html#myMap" class="w3-bar-item w3-button" style="font-size:35px">שלח פניה</a>
+            <a href="login.html" class="w3-bar-item w3-button" style="font-size:35px">התחברות</a>
+        </div>
+    </div>
+
+    <header class="bgimg w3-display-container w3-grayscale-min" id="home" style="top: 0px;padding-top: 0px; margin: 0px">
+        <img src="images/back/i1.jpg" style="width:100%; top:0px; padding-top:0px ;margin:0px" class="w3-margin-top w3-margin-bottom" alt="Restaurant">
+
+        <div class="w3-display-bottomleft w3-padding">
+        </div>
+        <div class="w3-display-middle w3-center">
+            <span class="w3-text-white w3-hide-small" style="font-size:100px">MY<br>COFFEE TIME</span>
+            <!--<span class="w3-text-white w3-hide-large w3-hide-medium" style="font-size:60px"><br> COFFEE TIME/b></span>-->
+            <p><a href="Products.html" class="w3-button w3-xxlarge w3-black">תנו לי לראות ת'תפריט</a></p>
+        </div>
+    </header>
+
+
+    <!-- About Container -->
+    <div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="about">
+        <div class="w3-content">
+            <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">אודות זמן קפה</h1>
+            <p  class="w3-xxlarge" style="direction:rtl">
+                זמן קפה הוא רשת בתי קפה ייחודי לכל המשפחה
+                תפריט האוכל העשיר והקפה המשובח אספו אלינו עם השנים חוג לקוחות קבועים שמכירים את האיכות של זמן קפה. אלה, כמו גם לקוחות מזדמנים ותיירים, מגיעים אלינו כדי לפתוח את היום עם קפה ומאפה טריים, לארוחת הבוקר המפנקת, לפגישת צהריים עסקית, לחגיגה משפחתית או לדרינק ופלטת טאפאס בערב עם החבר'ה
+                היום תמצאו את בתי הקפה שלנו ממוקמים במיקומים מיוחדים. בכל מקום שלנו תפגשו צוות חביב, אווירה כיפית ולא מחייבת ותחושה של בית, עם תפריט האוכל והמשקאות שאתם כל כך אוהבים.
+            </p>
+
+            <img src="images/back/r2.jpg" style="width:100%" class="w3-margin-top w3-margin-bottom" alt="Restaurant">
+            <h1><b>בשעות האלה אנחנו פתוחים</b></h1>
+
+            <div class="w3-row">
+                <div class="w3-col s6">
+
+                </div>
+                <div class="w3-col s6">
+                    <p>ראשון-חמישי</p>
+                    <p>10:00 - 24:00</p>
+                    <p>שישי 10:00 - 12:00</p>
+                    <p>שבת סגור</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Image of location/map -->
+    <img src="images/back/r3.jpg" class="w3-image w3-greyscale" style="width:100%;" >
+
+    <!-- Contact -->
+    <div class="w3-container w3-padding-64 w3-blue-grey w3-grayscale-min w3-xlarge" id="myMap">
+        <div class="w3-content">
+            <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">תשמרו איתנו על קשר</h1>
+            <p class="w3-xxlarge" style="direction:rtl">
+                <strong>הי!</strong>
+           כאן זה המקום לתקשר איתנו-
+                רוצים לפרגן לנו? יש לכם תלונות? יש לכם הערות על אחד הסניפים שלנו או על האתר
+                תשפכו הכל פה, תשאירו פרטים, וניצור איתכם קשר
+            </p>
+            
+            <div>
+                <p style="direction:rtl"><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="אז איך קוראים לך" required name="Name"></p>
+                <p style="direction:rtl"><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="מה המספר טלפון שלך?" required name="Name"></p>
+
+                <select name="branch" id="branch" input class="w3-input w3-padding-16 w3-border" style="direction:rtl">
+                    <option value="" disabled selected>על איזה סניף אתה רוצה לדבר איתנו? </option>
+                    <option value=0>קניה באתר</option>
+                    <option value=2287>סניף אלונים</option>
+                    <option value=2292>סניף עזריאלי</option>
+                    <option value=2295>סניף תחנה מרכזית ירושלים</option>
+                    <option value=2296>סניף קניון רמות</option>
+                    <option value=2298>סניף מרינה הרצליה</option>
+                    <option value=2301>סניף אשקלון</option>
+                    <option value=2310>סניף קניון קרית גת</option>
+                    <option value=2318>סניף רמת גן</option>
+                    <option value=2323>סניף יפו ירושלים</option>
+                    <option value=2328>סניף תל אביב צפון</option>
+                    <option value=2838>סניף רעננה</option>
+                    <option value=3328>סניף מרכזית הוד השרון</option>
+
+                </select>
+                <p></p>
+
+                <select name="complaints" id="complaints" input class="w3-input w3-padding-16 w3-border"  style="direction:rtl">
+                    <option value="" disabled selected>באיזה נושא? </option>
+                    <option value=84>איכות השירות</option>
+                    <option value=83>איכות המאכל</option>
+                    <option value=82>הטבות מועדון</option>
+                    <option value=249>בקשות/הצעות</option>
+                    <option value=85>עדכון פרטים</option>
+                    <option value=0>שונות</option>
+
+                </select>
+                <!--<p ><input id="desc" class="w3-input w3-padding-16 w3-border" type="datetime-local" placeholder="מתי זה קרה?" required name="date" value="2020-11-16T20:00"></p>-->
+                <p style="direction:rtl"><input class="w3-input w3-padding-16 w3-border" id="desc" type="text" placeholder="כאן שופכים" required name="Message"></p>
+                <p style="direction:rtl"><button class="w3-button w3-light-grey w3-block" onclick="sendComplaint()">שלח</button></p>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,252 @@
+﻿html, body {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color:#f8bb46
+}
+
+.cart {
+    width: 960px;
+    margin: 0 auto;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+th {
+    padding: 9px 11px;
+    text-align: center;
+    border-top: 1px medium black;
+    border-bottom: 1px solid black;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 6px 0px;
+    font-family: 'azo-sans', sans-serif;
+    text-transform: uppercase;
+    min-width: 200px;
+    margin-left: 0px;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+td.imageColumn {
+    width: 66px;
+    padding-right: 125px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+td.imageColumn {
+    padding-right: 10px;
+}
+
+td {
+    padding: 15px;
+    padding-right: 0;
+    vertical-align: top;
+    border-bottom: 1px solid black;
+}
+
+
+.itemName, .subItemName {
+    font-family: 'azo-sans', sans-serif;
+    font-weight: 400;
+    margin-bottom: 2px;
+    font-size: 14px;
+    line-height: 100%;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+
+.availabilityColumn {
+    width: 205px;
+    min-width: 205px;
+    max-width: 205px;
+    font-size: 14px;
+    color: black;
+    font-family: 'azo-sans', sans-serif;
+    margin-top: 40px;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+.imageColumn div {
+    /*    width: 66px;
+*/ height: 99px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right center;
+    width: 320px;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+.delete a.showText {
+    text-indent: 0;
+    width: 90px;
+    padding-left: 10px;
+    background-image: url(/picturs/icn-remove.png);
+    height: 24px;
+    background-position: left -3px;
+    font-size: 11px !important;
+    line-height: 15px;
+    position: relative;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+.delete a {
+    display: block;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: black;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+.price {
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 2px;
+    font-family: 'azo-sans', sans-serif;
+    font-weight: 600 !important;
+    font-family: "Amatic SC", sans-serif;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+#title {
+    margin: 8px 0 12px;
+    padding-left: 15px;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+    #title h1 {
+        margin: 15px 0 2px 0;
+        font-family: 'azo-sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 100%;
+        float: right;
+        font-size: 30px;
+    }
+
+h1 {
+    font: 236.36% 'azo-sans',sans-serif;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+}
+
+#title p {
+    float: right;
+    padding-right: 10px;
+    padding-top: 19px;
+    font-size: 19px;
+    font: icon;
+    font-family: "Amatic SC", sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p, fieldset {
+    margin-bottom: 1em;
+}
+
+a.GoToCheckout.TopLink {
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 30px;
+    background-color:#000000
+}
+
+.ShoppingBag a.GoToCheckout {
+    float: left;
+    margin-right: 23px;
+    font-family: "Amatic SC", sans-serif;
+}
+
+.nxbtn.primary {
+    background: #1a6461;
+    font-size: 11px;
+}
+
+.nxbtn.primary, .nxbtn.secondary {
+    padding-top: 6px;
+    padding-bottom: 7px;
+    color: #fff;
+    border: 0;
+    text-transform: uppercase;
+    font-family: 'azo-sans',sans-serif;
+}
+
+.ContentArea a {
+    color: black;
+    text-decoration: none;
+}
+
+.nxbtn {
+    border-radius: 3px;
+    display: inline-block;
+    padding: 4px 10px;
+    font-family: "Amatic SC", sans-serif;
+}
+.amount {
+    font-size: 20px;
+    font: message-box;
+    font-weight: bold;
+    font-family: "Amatic SC", sans-serif;
+}
+
+.number {
+    margin-left: 35px;
+    margin-top: 35px;
+}
+table {
+    min-width: 800px;
+    font-family: "Amatic SC", sans-serif;
+}
+
+td {
+    max-width: 100px;
+    min-width: 180px;
+}
+/*.expandoHeight {
+    margin-left: 10px;
+}*/
+
+thead {
+    display: flex;
+/*    justify-content: space-around;*/
+    align-items: center;
+    justify-content: space-between;
+    max-width: 700px;
+}
+
+tr {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.expandoHeight{
+    height: 40px;
+    margin-top: 30px;
+}
+
+.totalColumn, .totalColumn {
+    width: 310px;
+    font-family: "Amatic SC", sans-serif;
+}
+
+.itemsColumn {
+    width: 320px;
+    font-family: "Amatic SC", sans-serif;
+}

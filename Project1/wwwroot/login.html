@@ -1,0 +1,87 @@
+﻿
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Coffee Time</title>
+    <script src="login.js"></script>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="login.css" />
+
+
+
+    <meta charset="utf-8" />
+
+</head>
+<body>
+    <header>
+        <br />
+        <br />
+        <br />
+        <div class="w3-top w3-hide-small" style="opacity: 1.0 ;font-weight: normal">
+            <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar" style="opacity: 1.0 ;height:70px;  font-weight: normal;">
+                <a href="home.html" class="w3-bar-item w3-button" style="font-size:35px; text-align:center;padding-top:25px">HOME</a>
+                <a href="Products.html" class="w3-bar-item w3-button" style="font-size: 35px ;text-align: center;padding-top:25px ">תפריט</a>
+                <a href="home.html#about" class="w3-bar-item w3-button" style="font-size: 35px ;padding-top:25px">אודות</a>
+                <a href="home.html#myMap" class="w3-bar-item w3-button" style="font-size: 35px;padding-top: 25px">שלח פניה</a>
+
+            </div>
+        </div>
+
+        </header>
+        <div class="login-wrap">
+            <div class="login-html" id="login-html">
+                <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">התחבר</label>
+                <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">הרשם</label>
+                <div class="login-form">
+                    <div class="sign-in-htm">
+                        <div class="group">
+                            <label for="user" class="label">מייל</label>
+                            <input type="text" id="email" class="input">
+                        </div>
+                        <div class="group">
+                            <label for="pass" class="label">סיסמא</label>
+                            <input type="password" id="password" class="input" data-type="password">
+                        </div>
+
+                        <div class="group">
+                            <input type="submit" class="button" value="התחבר" onclick="login(false)" style="font-family: Amatic SC, sans-serif ; font-size:25px">
+                        </div>
+                        <div class="hr"></div>
+
+                    </div>
+                    <div class="sign-up-htm">
+                        <div class="group">
+                            <label for="user" class="label">שם משפחה</label>
+                            <input type="text" id="lastName" class="input">
+                        </div>
+                        <div class="group">
+                            <label for="pass" class="label">שם פרטי</label>
+                            <input type="text" id="firstName" class="input">
+                        </div>
+                        <div class="group">
+                            <label for="pass" class="label">מייל</label>
+                            <input type="text" id="newEmail" class="input" >
+                        </div>
+                        <div class="group">
+                            <label for="pass" class="label">סיסמא</label>
+                            <input type="password" id="newPassword" class="input" data-type="password">
+                        </div>
+                        <div class="group">
+                            <input type="submit" class="button" value="הרשם" onclick="createUser()" style="font-family: Amatic SC, sans-serif;font-size: 25px">
+                        </div>
+                        <div class="hr"></div>
+                        <div class="foot-lnk">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+</html>
+
