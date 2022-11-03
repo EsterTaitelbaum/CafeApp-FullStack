@@ -16,7 +16,7 @@ namespace Project1.Controllers
     [ApiController]
     public class CategoryController : ControllerBase
     {
-        //eee
+        
         ICategoryBL categoryBL;
         IMapper _mapper;
 
